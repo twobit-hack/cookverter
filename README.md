@@ -1,15 +1,17 @@
 This program converts various measurements used in baking
 
-It converts between: 
-- teaspoons 
-- tablespoons 
-- cups 
-- pints 
-- quarts 
-- gallons 
-- fluid ounces 
-- milliliters
+startAmount must be a number
+
+startUnit and endUnit must be one of the following:
+
+- 'tsp' //teaspoons 
+- 'tbsp' //tablespoons 
+- 'cups' 
+- 'pints' 
+- 'quarts' 
+- 'gallons' 
+- 'fl oz' //fluid ounces 
+- 'mL' //milliliters
 
 TODO:
-- Format results to two decimal points, omitting decimals if the result is an integer
 - Assign program to a webpage with an HTML form
