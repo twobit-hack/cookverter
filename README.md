@@ -1,10 +1,17 @@
-This program converts various measurements used in baking
+# Cookverter
+### Make measurement conversions easy with Cookverter
 
-startAmount must be a number
+## Description
+**Cookverter** is a multipurpose tool that converts various measurements used in cooking.
+Currently, Cookverter is just a JavaScript file that can convert common baking measurements.
+
+
+## How to Use
+startAmount must be a **number**
 
 startUnit and endUnit must be one of the following:
 
-- 'tsp' //teaspoons 
+- 'tsp' //teaspoons
 - 'tbsp' //tablespoons 
 - 'cups' 
 - 'pints' 
@@ -13,5 +20,8 @@ startUnit and endUnit must be one of the following:
 - 'fl oz' //fluid ounces 
 - 'mL' //milliliters
 
-TODO:
+## TODO:
 - Assign program to a webpage with an HTML form
+- Design a nice UI for aforementioned HTML form
+- Add conversions for weight
+- Restructure code for readability
