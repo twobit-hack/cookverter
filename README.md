@@ -3,7 +3,10 @@
 
 ## Description
 **Cookverter** is a multipurpose tool that converts various measurements used in cooking.
+
 Currently, Cookverter is just a JavaScript file that can convert common baking measurements.
+
+Eventually, Cookverter will be an easy to use and nice looking web app
 
 
 ## How to Use
