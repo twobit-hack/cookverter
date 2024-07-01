@@ -27,4 +27,4 @@ startUnit and endUnit must be one of the following:
 - Assign program to a webpage with an HTML form
 - Design a nice UI for aforementioned HTML form
 - Add conversions for weight
-- Restructure code for readability
+- Round the result to two decimal places
